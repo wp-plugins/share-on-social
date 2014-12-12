@@ -1,0 +1,27 @@
+div.share-lockers {
+	float: right;
+	position: relative;
+	left: -50%; /* or right 50% */
+	text-align: left;
+	padding: 20px;
+}
+
+div.share-lockers > .share-locker {
+	cursor: pointer;
+	position: relative;
+	left: 50%;
+}
+
+div.share-lockers > .spacer {
+	position: relative;
+	left: 50%;
+	padding-right: 50px;
+}
+
+div.sos-hide {
+	display: none;
+}
+
+.clear {
+	clear: both;
+}

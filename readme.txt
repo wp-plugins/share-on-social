@@ -3,7 +3,7 @@ Contributors: maithilish
 Donate link: http://codedrops.in/about/
 Tags:social,social locker, social media, traffic, social network, social plugins, social buttons, social share, users wall, facebook, twitter, google plus
 Requires at least: 3.9
-Tested up to: 4.0.1
+Tested up to: 4.1
 Stable tag: 1.0.0
 License: GPLv2 or later
 
@@ -60,7 +60,7 @@ For screenshots please visit [Share on Social Plugin page](http://www.codedrops.
 
 == Changelog ==
 
-= 1.0.0 - 15 Dec 2014 =
+= 1.0.0 - 12 Dec 2014 =
 Initial version.
 
 
